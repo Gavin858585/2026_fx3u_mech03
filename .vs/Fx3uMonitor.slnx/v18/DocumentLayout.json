@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u9EC3\u5EFA\u7DB1\\Desktop\\\u6A5F\u96FB\u6574\u5408\\\u7DF4\u7FD2\u6A94\\Antigravity\\FX3U\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E86F601-8527-1A8D-667F-FF1A70A6AD08}|Fx3uMonitor\\Fx3uMonitor.csproj|c:\\users\\\u9EC3\u5EFA\u7DB1\\desktop\\\u6A5F\u96FB\u6574\u5408\\\u7DF4\u7FD2\u6A94\\antigravity\\fx3u\\fx3umonitor\\fx3umonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E86F601-8527-1A8D-667F-FF1A70A6AD08}|Fx3uMonitor\\Fx3uMonitor.csproj|solutionrelative:fx3umonitor\\fx3umonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fx3uMonitor.csproj",
+              "DocumentMoniker": "C:\\Users\\\u9EC3\u5EFA\u7DB1\\Desktop\\\u6A5F\u96FB\u6574\u5408\\\u7DF4\u7FD2\u6A94\\Antigravity\\FX3U\\Fx3uMonitor\\Fx3uMonitor.csproj",
+              "RelativeDocumentMoniker": "Fx3uMonitor\\Fx3uMonitor.csproj",
+              "ToolTip": "C:\\Users\\\u9EC3\u5EFA\u7DB1\\Desktop\\\u6A5F\u96FB\u6574\u5408\\\u7DF4\u7FD2\u6A94\\Antigravity\\FX3U\\Fx3uMonitor\\Fx3uMonitor.csproj",
+              "RelativeToolTip": "Fx3uMonitor\\Fx3uMonitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-22T07:57:27.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
